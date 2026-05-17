@@ -60,7 +60,13 @@ cd pycam
 ## 2️⃣ Instale as dependências
 
 ```bash
+<<<<<<< HEAD
 pip install -r requirements.txt
+=======
+pip install opencv-python
+pip install mediapipe
+pip install numpy
+>>>>>>> 9da7642311a1339f0a8ec23a29813309e7b9cd26
 ```
 
 ## 3️⃣ Execute o projeto
