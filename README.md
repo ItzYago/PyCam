@@ -33,7 +33,7 @@ O projeto foi criado com foco em desempenho, simplicidade e expansão para futur
 
 ## 📷 Demonstração do Sistema
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+<img src="project/assets/foto.png" width="600"/>
 
 </div>
 
